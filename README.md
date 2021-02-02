@@ -7,7 +7,7 @@ Flutter sangat cocok bagi kalian yang telat mempelajari bahasa pemrograman tetap
 
 **Pra-Syarat**
 - [Cara install Flutter](carainstallflutter.md)
-- Cara install IDE
+- Integrated Development Environment?
 - HELLO WORLD! (Aplikasi pertama)
 
 ---
