@@ -2,22 +2,21 @@
 
 [Referensi](https://flutter.dev/docs/get-started/install)
 
----
-
 ## MacOS
-> Spesifikasi minimal
-> 1. Penyimpanan 2.8 GB (Rekomendasi minimal 10 GB)
-> 2. MacOS 64-Bit (M1 sudah bisa di gunakan)
-> 3. Tools
+> #### Spesifikasi minimal
+> ##### 1. Penyimpanan 2.8 GB (Rekomendasi minimal 10 GB)
+> ##### 2. MacOS 64-Bit (M1 sudah bisa di gunakan)
+> ##### 3. Tools
 >  a. Git
 >  b. Xcode
 
 ---
 
-1. Menuju [link ini](https://flutter.dev/docs/get-started/install/macos "Install flutter Mac OS")
+###### 1. Menuju [link ini](https://flutter.dev/docs/get-started/install/macos "Install flutter Mac OS")
 ![Install flutter SDK](images/install_mac/flutterformac.png)
-2. Extract file zip (Rekomendasi : Buat folder Development baru di home, Contoh : /home/Development)
-3. Update environment
+###### 2. Extract file zip 
+Rekomendasi : Buat folder Development baru di home, Contoh : /home/Development
+###### 3. Update environment
    1. Jika menggunakan Bash maka gunakan command "nano .bashrc"
    2. Jika menggunakan zsh maka gunakan command "nano .zshrc"
    3. Tambahkan command dibawah pada file rc yang tadi : 
